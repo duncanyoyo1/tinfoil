@@ -1,6 +1,6 @@
 # Tinfoil
 
-A homebrew game, update, and DLC installer.
+A homebrew game, update, and DLC installer.  Download at https://tinfoil.io/
 
 
 ## Screenshots
